@@ -11,8 +11,6 @@
 
 ## 这个账号的用途 The usage of this account.
 
-- 处理学校活动事务
-- Handle school event affairs.
 - 记录自己学习的笔记
 - Take notes on my own learning
 - 记录自己的学术生涯
