@@ -11,7 +11,7 @@
 - 目前，我的主要研究领域是 **TTS 和音乐生成**🎶；
 - Currently, my main research area is **TTS and Music Generation**🎶.
 
-- 同时，我还有过一些关于 **大语言模型 + 强化学习** 的知识。
+- 同时，我还有一些关于 **大语言模型 + 强化学习** 的知识。
 - Meanwhile, I have also studied some knowledge related to **LLMs + Reinforcement Learning**.
  
 ## 联系我 Contact me
