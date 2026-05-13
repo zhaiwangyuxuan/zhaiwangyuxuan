@@ -8,7 +8,7 @@
 
 ## 经历 Experiences
 
-- 2026.05 - Present Audio Language Models Algorithm Intern @OpenBMB 面壁智能
+- 2026.05 - Present Audio Language Models Algorithm Intern @ModelBest 面壁智能
 - 2026.04 - Present Research Intern @THU HCSI 清华大学深圳国际研究生院人机语音交互实验室
 - 2025.09 - 2026.04 Research Intern @THU AIR 清华大学智能产业研究院
 - 2024.09 - 2025.05 Research Intern @BJTU NLP Group 北交自然语言处理团队
